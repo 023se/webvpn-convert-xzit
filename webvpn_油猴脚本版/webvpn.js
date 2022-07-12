@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         徐工院webvpn跳转
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/023se/webvpn-convert-xzit/
 // @version      0.1
 // @description  网址转换小工具，将普通网页通过徐工院的webvpn打开，或者将通过徐工院webvpn打开的网页变为普通网页
 // @author       023se
@@ -91,6 +91,4 @@
     GM_registerMenuCommand(`${hint}（新窗口）`, () => {
         hop("_blank") //'_self' '_blank' 可选
     });
-    // Your code here...
-
 })();
