@@ -6,7 +6,7 @@
 
  ## vue3版示例
 
-[您可以点此查看示例]([webvpn_convert (023se.github.io)](https://023se.github.io/test-webvpn-convert-xzit/#/))
+[您可以点此查看示例(023se.github.io)](https://023se.github.io/test-webvpn-convert-xzit/#/)
 
 ## uni-app版示例
 
